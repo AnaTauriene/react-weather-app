@@ -28,9 +28,6 @@ class FooterQuote extends Component {
       </div>
     );
   }
-   //Random būdu rodoma citata iš šaltinio paleidus psl.
-   // showQuote () {
-   // }
 }
 
 export default FooterQuote;
